@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me:
 
-- Website: [ubeydkhoiri.github.io]([https://filippo.dev](https://ubeydkhoiri.github.io/profil)/)
+- Website: [ubeydkhoiri.github.io](https://ubeydkhoiri.github.io/profil)
 - Twitter: [@Khoiriubeyd](https://twitter.com/Khoiriubeyd)
 - Instagram: [@Ubeydkhoiri](https://instagram.com/ubeydkhoiri)
 
