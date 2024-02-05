@@ -4,6 +4,7 @@ I'm Ubeyd. Data Scientist by day, data sorcerer by night. I'm your go-to for tur
 
 ### 📫 How to reach me:
 
-- Website: [ubeydkhoiri.github.io](https://ubeydkhoiri.github.io/home)
-- Twitter: [@Khoiriubeyd](https://twitter.com/Khoiriubeyd)
+- LinkedIn: [@Ubeydkhoiri](https://www.linkedin.com/in/ubeydkhoiri)
+- Medium: [@Ubeydkhoiri](https://medium.com/@ubeydkhoiri)
 - Instagram: [@Ubeydkhoiri](https://instagram.com/ubeydkhoiri)
+- Website: [ubeydkhoiri.github.io](https://ubeydkhoiri.github.io/home)
